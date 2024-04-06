@@ -1,0 +1,26 @@
+material_id,type,supplier,cost,quantity_on_hand,reorder_level
+MAT-001,Aluminum Sheets,AluSupply Inc.,10.50,300,50
+MAT-002,Steel Bars,SteelTech Ltd.,15.75,200,30
+MAT-003,Copper Wire,CopperWise LLC,8.90,400,60
+MAT-004,Plastic Pellets,PlastiTech Corp.,5.25,500,75
+MAT-005,Glass Panes,GlassWorks Ltd.,12.00,250,40
+MAT-006,Wood Boards,WoodCrafters Co.,7.80,350,55
+MAT-007,Rubber Sheets,RubberTech Inc.,6.50,450,70
+MAT-008,Electronic Components,ElecTronics Corp.,20.00,150,25
+MAT-009,Carbon Fiber Sheets,CarbonTech LLC,18.50,180,35
+MAT-010,Brass Rods,BrassMasters Ltd.,14.25,280,45
+MAT-011,Ceramic Tiles,CeramicCreations Inc.,9.75,320,50
+MAT-012,Textile Rolls,TextileWorld LLC,11.00,270,45
+MAT-013,Graphite Blocks,GraphiteTech Corp.,16.80,220,40
+MAT-014,Concrete Blocks,ConCreteMakers Ltd.,8.25,400,60
+MAT-015,Marble Slabs,MarbleWorks Inc.,25.50,180,30
+MAT-016,Platinum Ingots,PlatinumCorp,350.00,10,2
+MAT-017,Titanium Plates,TitaniumIndustries,120.00,30,5
+MAT-018,Gold Bars,GoldMines Ltd.,200.00,20,3
+MAT-019,Silver Coins,SilverCrafters,50.00,100,15
+MAT-020,Palladium Pellets,PalladiumTech,300.00,15,2
+MAT-021,Bronze Sheets,BronzeWorks Inc.,22.50,150,25
+MAT-022,Lead Ingots,LeadTech Corp.,15.00,80,15
+MAT-023,Zinc Plates,ZincMasters Ltd.,18.75,120,20
+MAT-024,Platinum Wire,PlatinumCorp,500.00,5,1
+MAT-025,Tungsten Rods,TungstenTech LLC,180.00,25,5
